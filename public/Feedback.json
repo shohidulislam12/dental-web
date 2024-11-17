@@ -1,0 +1,94 @@
+ [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Amazing service! The team was so professional, and the office had a very welcoming atmosphere. Highly recommend!",
+        "date": "2024-11-17",
+        "serviceUsed": "General Dentistry",
+        "image": "/images/customer1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Emily Smith",
+        "rating": 4,
+        "comment": "Great experience overall. The teeth whitening service was quick and effective. Will be coming back for other services!",
+        "date": "2024-11-16",
+        "serviceUsed": "Cosmetic Dentistry",
+        "image": "/images/customer2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "rating": 5,
+        "comment": "The staff were very friendly and explained everything in detail. I felt comfortable throughout my treatment. Thank you!",
+        "date": "2024-11-14",
+        "serviceUsed": "Orthodontics",
+        "image": "/images/customer3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sophia Lee",
+        "rating": 3,
+        "comment": "The service was okay, but I had to wait longer than expected. Overall, the staff was kind and professional.",
+        "date": "2024-11-12",
+        "serviceUsed": "Emergency Dentistry",
+        "image": "/images/customer4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "James Miller",
+        "rating": 5,
+        "comment": "I had my dental implant done here, and I couldn't be happier with the results. The procedure was painless, and the recovery was fast.",
+        "date": "2024-11-10",
+        "serviceUsed": "Dental Implants",
+        "image": "/images/customer5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Ava Wilson",
+        "rating": 4,
+        "comment": "The team is excellent. The cleaning was thorough, and I feel much better about my oral health. Will return for follow-ups.",
+        "date": "2024-11-09",
+        "serviceUsed": "General Dentistry",
+        "image": "/images/customer6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "David Lee",
+        "rating": 5,
+        "comment": "Excellent experience! The staff made me feel at ease during my wisdom tooth extraction. Recovery was quick.",
+        "date": "2024-11-08",
+        "serviceUsed": "Oral Surgery",
+        "image": "/images/customer7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Isabella Brown",
+        "rating": 4,
+        "comment": "I had a great experience with my braces. The process was smoother than expected, and the results are fantastic!",
+        "date": "2024-11-05",
+        "serviceUsed": "Orthodontics",
+        "image": "/images/customer8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Liam Davis",
+        "rating": 5,
+        "comment": "The dental team here is top-notch. My children's first visit was comfortable, and they loved the experience.",
+        "date": "2024-11-02",
+        "serviceUsed": "Pediatric Dentistry",
+        "image": "/images/customer9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Charlotte Moore",
+        "rating": 5,
+        "comment": "Had an amazing experience with my new dentures. The team took the time to ensure they fit perfectly. Highly recommend!",
+        "date": "2024-10-30",
+        "serviceUsed": "Prosthodontics",
+        "image": "/images/customer10.jpg"
+      }
+    ]
+
+  

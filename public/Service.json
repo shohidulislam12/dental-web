@@ -1,0 +1,66 @@
+ [
+      {
+        "id": 1,
+        "name": "General Dentistry",
+        "description": "Comprehensive oral exams, professional cleanings, and preventive care to maintain your dental health.",
+        "image": "/images/general-dentistry.jpg",
+        "priceRange": "$50 - $150"
+      },
+      {
+        "id": 2,
+        "name": "Cosmetic Dentistry",
+        "description": "Enhance your smile with services like teeth whitening, veneers, and smile makeovers.",
+        "image": "/images/cosmetic-dentistry.jpg",
+        "priceRange": "$200 - $2,000"
+      },
+      {
+        "id": 3,
+        "name": "Orthodontics",
+        "description": "Straighten your teeth with braces, clear aligners, or other orthodontic treatments.",
+        "image": "/images/orthodontics.jpg",
+        "priceRange": "$3,000 - $8,000"
+      },
+      {
+        "id": 4,
+        "name": "Pediatric Dentistry",
+        "description": "Specialized dental care for children, focusing on preventive treatments and oral health education.",
+        "image": "/images/pediatric-dentistry.jpg",
+        "priceRange": "$50 - $300"
+      },
+      {
+        "id": 5,
+        "name": "Dental Implants",
+        "description": "Permanent solutions for missing teeth with advanced dental implant technology.",
+        "image": "/images/dental-implants.jpg",
+        "priceRange": "$1,500 - $5,000"
+      },
+      {
+        "id": 6,
+        "name": "Emergency Dentistry",
+        "description": "Urgent care for dental issues like toothaches, broken teeth, and other dental emergencies.",
+        "image": "/images/emergency-dentistry.jpg",
+        "priceRange": "$100 - $500"
+      },
+      {
+        "id": 7,
+        "name": "Periodontics",
+        "description": "Treatment for gum disease and other periodontal conditions to protect your smile.",
+        "image": "/images/periodontics.jpg",
+        "priceRange": "$300 - $1,200"
+      },
+      {
+        "id": 8,
+        "name": "Prosthodontics",
+        "description": "Custom dentures, bridges, and crowns to restore function and aesthetics.",
+        "image": "/images/prosthodontics.jpg",
+        "priceRange": "$500 - $3,000"
+      },
+      {
+        "id": 9,
+        "name": "Oral Surgery",
+        "description": "Expert surgical procedures, including wisdom tooth removal and jaw correction.",
+        "image": "/images/oral-surgery.jpg",
+        "priceRange": "$500 - $4,000"
+      }
+    ]
+  
